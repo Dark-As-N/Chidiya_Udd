@@ -1,3 +1,4 @@
+INSTRUCTIONS:
 These are some important instructions to go through before running the application on your system:
 
 1) Please ensure that all the libraries imported in main.py are installed on your system.
@@ -9,6 +10,16 @@ These are some important instructions to go through before running the applicati
 7) Ensure that all the images and folders included in this repository are placed in the same folder as that of the main.py file.
 8) Change the argument of the videocapture function as per the camera being used for motion detection.
 9) Change the path mentioned on line 233 of main.py to the path of your locally stored "Images" folder.
+
+TECH STACK:
+python and libraries mainly OpenCV and Tkinter, Figma, Droid Cam (external webcam)
+
+FUTURE SCOPE:
+The game can be made into a multiplayer tournament setup for group players online.
+The number of players playing at a single time can be increased.
+Multithreading can be applied for reducing time lag between function calls.
+Image list can be improved over time.
+
 
 \_(>_<)_/
 Mridul Rathi
